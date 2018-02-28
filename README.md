@@ -1,6 +1,6 @@
 # Github-Battle-Game
 
-This Github battle game app shows the most popular Github accounts (sorted by language) and allows you to compare two accounts via a battle. I learned a MASSIVE amount about React & functional composition whilst building this.
+This Github battle game app shows the most popular Github accounts (sorted by language) and allows you to compare two accounts via a battle. I learned a **MASSIVE** amount about React & functional composition whilst building this.
 
 ## Key Takeaways
 
@@ -10,7 +10,7 @@ This Github battle game app shows the most popular Github accounts (sorted by la
 
 3. Learned how to map, reduce, etc. over arrays into html
 
-4. My ability to architect code really improved (I wrote smaller functions that each focused on ONE thing) 
+4. My ability to architect code really improved (I wrote small reusable functions that each focused on ONE thing) 
 
 ## To Use
 
